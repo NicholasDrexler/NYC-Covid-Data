@@ -1,0 +1,2 @@
+# NYC-Covid-Data
+This is an academic project, using python to visualize Covid-19 cases, hospitalizations and deaths. We use a non-linear regression with options for Quadratic or Cubic Polynomial modeling. This is a limited version which can later be altered into subplots to best visualize all information at once. This is preferred since obvious connections can be drawn by simple visual comparison.  
