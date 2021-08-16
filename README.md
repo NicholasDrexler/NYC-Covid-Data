@@ -9,4 +9,4 @@ CovidDataNYC_logscale.py Features:
 Outputs logarithmic cases, hospitalizations, and deaths on one graph for easy comparison. 
 
 CovidDataNYC_v2.Py Features:
-Updated to Cov on 8/16/2021 to include subplots.
+Updated on 8/16/2021 to include subplots.
